@@ -1,0 +1,14 @@
+{
+  "sfm": {"room": "SME L2", "link": ""},
+  "mnv": {"room": "SME L5", "link": ""},
+  "pied": {"room": "LHB 307", "link": ""},
+  "far": {
+    "room": "SME L1",
+    "link": "https://meet.google.com/xcs-pdfq-dyo?authuser=1&pli=1"
+  },
+  "itb": {"room": "LHB 308", "link": ""},
+  "es": {"room": "LHB 110", "link": ""},
+  "pc": {"room": "CSE 102", "link": ""},
+  "mm": {"room": "SME L1", "link": ""},
+  "free": {"room": "", "link": ""}
+}
